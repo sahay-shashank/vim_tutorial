@@ -1,0 +1,16 @@
+k -> move cursor up one line.
+j -> move cursor down one line.
+h -> move cursor left on one-character position.
+l -> move cursor right on one-character position.
+0 -> move cursor to the start of line.
+$ -> move cursor to the end of line.
+W -> move cursor to the next word.
+B -> move cursor to the previous word.
+( -> move cursor to the start of current sentence.
+) -> move cursor to the start of next sentence.
+H -> move cursor to the top of screen.
+nH -> move cursor to the nth line from the top of the screen.
+M -> move cursor to the middle of the screen.
+L -> move cursor to the bottom of the screen.
+nL -> move cursor to the nth line from the bottom of the screen.
+:n -> move cursor to the nth line in the file.

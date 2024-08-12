@@ -1,0 +1,4 @@
+Yy -> Copies the current line.
+9yy -> Yank current line and 9 lines below.
+p -> Puts the copied text after the cursor.
+P -> Put the yanked text before the cursor.

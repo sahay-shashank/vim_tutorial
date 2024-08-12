@@ -1,0 +1,7 @@
+i -> Inserts text before current cursor location
+a -> Insert text after current cursor location 
+A -> Insert text at the end of current line
+o -> Creates a new line for text entry below cursor location and switches to insert mode.
+O -> Creates a new line for text entry above cursor location and switches to insert mode.
+s -> Replaces single character under the cursor with any number of characters and switches to insert mode.
+R -> Overwrites text from the cursor to the right, without switching to insert mode.

@@ -1,0 +1,7 @@
+CTRL+d	-> moves the screen down by half a page.
+CTRL+f	-> moves the screen down by a full page.
+CTRL+u	-> moves the screen up by half a page.
+CTRL+b	-> moves the screen up by a full page.
+CTRL+e	-> moves the screen up by one line.
+CTRL+y	-> moves the screen down by one line.
+CTRL+I	-> redraw the screen.
